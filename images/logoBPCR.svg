@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  
+  <text fill="#ffaad4" font-family="serif" font-size="24" id="svg_1" stroke="#7f003f" stroke-width="0" text-anchor="middle" transform="matrix(6.62866 0 0 8.01238 -605.84 -607.104)" x="138.5" xml:space="preserve" y="112.926757">BPCR</text>
+  <polygon cx="167.5" cy="117.5" fill="#7f003f" id="svg_7" orient="point" point="5" points="545.5 202.833 537.746 224.223 514.134 224.684 532.953 238.365 526.114 260.039 545.5 247.105 564.886 260.039 558.047 238.365 576.866 224.684 553.254 224.223 545.5 202.833 537.746 224.223" r="0.666667" r2="0.266667" shape="star" stroke="#7f003f" stroke-width="0" strokeWidth="0" strokecolor="#7f003f"/>
+  <polygon cx="167.5" cy="117.5" fill="#7f003f" id="svg_8" orient="point" point="5" points="80.5 194.897 72.746 216.287 49.134 216.748 67.953 230.429 61.114 252.103 80.5 239.169 99.886 252.103 93.047 230.429 111.866 216.748 88.254 216.287 80.5 194.897 72.746 216.287" r="0.666667" r2="0.266667" shape="star" stroke="#7f003f" stroke-width="0" strokeWidth="0" strokecolor="#7f003f"/>
+ </g>
+</svg>
